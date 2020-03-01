@@ -1,5 +1,6 @@
 # Project-1
 
+Link to deployed game, have fun playing!  https://e0marina.github.io/Project-1/
 Team:
 Emily Marinaro
 Julie Valdez
